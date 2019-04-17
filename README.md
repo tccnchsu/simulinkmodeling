@@ -1,6 +1,8 @@
 # simulinkmodeling
 simulink modeling
 
+Taxonomy vs Ontology: Machine Learning Breakthroughs
+https://www.dataversity.net/taxonomy-vs-ontology-machine-learning-breakthroughs/
 
 machine learning combinational logic circuit
 https://www.google.com/search?q=machine+learning+combinational+logic+circuit&oq=machine+learning+combinational+logic+circuit&aqs=chrome..69i57j69i61j0l2j69i65j0.6151j0j8&sourceid=chrome&ie=UTF-8
