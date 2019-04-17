@@ -1,6 +1,15 @@
 # simulinkmodeling
 simulink modeling
 
+
+machine learning combinational logic circuit
+https://www.google.com/search?q=machine+learning+combinational+logic+circuit&oq=machine+learning+combinational+logic+circuit&aqs=chrome..69i57j69i61j0l2j69i65j0.6151j0j8&sourceid=chrome&ie=UTF-8
+
+Application of Machine Learning in Digital Logic Circuit Design Verification and Testing
+
+https://search.proquest.com/openview/602857801bbf0011fb7c828dffe78500/1?pq-origsite=gscholar&cbl=18750&diss=y
+
+
 电路逻辑
 此示例电路有三个输入：两个要加总的位（a 和 b）和一个进位输入位 (c)。它有两个输出：进位输出位 (c') 和加总位 (s)。
 https://ww2.mathworks.cn/help/simulink/slref/_mw_8217f02f-22fa-43a0-98b2-89082cde0c7a.html
