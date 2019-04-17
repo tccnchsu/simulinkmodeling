@@ -12,6 +12,19 @@ The simulation results show that the design and debugging of the combined circui
 https://wenku.baidu.com/view/5bfc841acc7931b765ce1595.html
 
 
+用MATLAB/SIMULINK实现半加器、全加器的组合数字逻辑电路设计及仿真
+一、实验目的：
+1．学会用电子仿真软件 MATLAB7（SIMULINK） 设计半加器及全加器数字逻辑电路
+2.掌握半加器、全加器的工作原理。
+3.学会用Scope(示波器)观察半加器，全加器的输入及输出波形
+4.掌握simulink组合电路的分析和设计方法
+5.验证半加器和全加器的逻辑功能(真值表)
+--------------------- 
+作者：baidu_23167881 
+来源：CSDN 
+原文：https://blog.csdn.net/baidu_23167881/article/details/83212438 
+
+
 Quadcopter PID explained
 https://www.youtube.com/watch?v=Fjb8sU9EjCs
 
