@@ -1,6 +1,9 @@
 # simulinkmodeling
 simulink modeling
 
+电路逻辑
+此示例电路有三个输入：两个要加总的位（a 和 b）和一个进位输入位 (c)。它有两个输出：进位输出位 (c') 和加总位 (s)。
+https://ww2.mathworks.cn/help/simulink/slref/_mw_8217f02f-22fa-43a0-98b2-89082cde0c7a.html
 
 Design and Simulation of combinational logic circuit based on MATLAB
 Abstract
