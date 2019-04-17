@@ -1,6 +1,31 @@
 # simulinkmodeling
 simulink modeling
 
+
+Ontology Matching: A Machine Learning
+Approach
+https://homes.cs.washington.edu/~pedrod/papers/hois.pdf
+
+A new approach in machine learning
+(Preliminary report)
+Alain Tapp ∗
+Universit´e de Montr´eal
+September 16, 2014
+Abstract
+In this technical report we presented a novel approach to machine learning. Once
+the new framework is presented, we will provide a simple and yet very powerful learning
+algorithm which will be benchmark on various dataset.
+The framework we proposed is based on booleen circuits; more specifically the classifier
+produced by our algorithm have that form. Using bits and boolean gates instead of real
+numbers and multiplication enable the the learning algorithm and classifier to use very
+efficient boolean vector operations. This enable both the learning algorithm and classifier
+to be extremely efficient. The accuracy of the classifier we obtain with our framework
+compares very favorably those produced by conventional techniques, both in terms of
+efficiency and accuracy.
+
+https://arxiv.org/pdf/1409.4044.pdf
+
+
 Taxonomy vs Ontology: Machine Learning Breakthroughs
 https://www.dataversity.net/taxonomy-vs-ontology-machine-learning-breakthroughs/
 
