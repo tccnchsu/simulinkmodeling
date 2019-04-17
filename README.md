@@ -1,6 +1,14 @@
 # simulinkmodeling
 simulink modeling
 
+Machine Learning in the Internet of Things: a
+Semantic-enhanced Approach
+
+A case study on road and traffic analysis has allowed to validate the
+proposal and achieve an assessment with respect to state-of-the-art ML algorithms.
+
+http://www.semantic-web-journal.net/system/files/swj1806.pdf
+
 
 Ontology Matching: A Machine Learning
 Approach
