@@ -119,6 +119,9 @@ https://www.youtube.com/watch?v=bCsOdnADuAM
 
 
 
-Modeling and Simulation Made Easy with Simulink
+
+
+Understanding Kalman Filters, Part 1: Why Use Kalman Filters?
+https://youtu.be/mwn8xhgNpFY
 
 
